@@ -1,1 +1,1 @@
-# SevakAI
+# Sevak-AI
